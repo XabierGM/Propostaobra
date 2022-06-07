@@ -2,7 +2,7 @@
 
 ## Taboa de contidos
 
-A miña proposta poderíase dividir en 3 partes: deseño máis moderno e sinxelo, máis clicabilidade e chamadas a acción e tooltips, baby.
+A miña proposta poderíase dividir en 3 partes: deseño máis moderno e sinxelo, máis clicabilidade e chamadas a acción e tooltips.
 
 # Deseño moderno
 
@@ -22,7 +22,7 @@ O deseño anterior fúndese demasiado co fondo, non destaca, apenas ten chamadas
 
 obviamente co deseño ben actualizado, pero no apartado de interaccións esta web era moito máis navegable, e deberíamos recuperar un pouco a maxia dese primeiro prototipo.
 
-# Tooltips (baby)
+# Tooltips
 
 Crias que xa me rendera con elas? Non señor! Dende a anterior proposta estiven investigando como se poderían implementar e, inda que xa non estou convencido co anterior plan de facelas mediante cookies, ocórreseme unha idea aínda mellor:
 
@@ -48,4 +48,4 @@ Logo só e caso de facer unha function que mostre os tooltips só se non hay loc
 
 ## Conclusión
 
-O que esta obra necesita é un lavado de cara supersónico con máis usabilidades e máis guías que nos aforren no futuro facer o manual de usuario. Desta maneira matamos dous puchiñas dun tiro.
+O que esta obra necesita é un lavado de cara con máis usabilidades e máis guías que nos aforren no futuro facer o manual de usuario. Desta maneira matamos duas puchiñas dun tiro.
